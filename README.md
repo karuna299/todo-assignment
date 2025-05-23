@@ -25,7 +25,7 @@ A full-stack application to manage personal to-do items, summarize pending tasks
 
 ## Tech Stack
 
-* **Frontend:** React, Axios (for API calls), CSS
+* **Frontend:** HTML, CSS, Javascript, React, Axios(for API calls), 
 * **Backend:** Spring Boot (Java 17+), Maven
 * **Database:** MySQL (via Spring Data JPA and Hibernate)
 * **LLM:** Cohere API
