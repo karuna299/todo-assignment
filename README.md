@@ -13,7 +13,7 @@ A full-stack application to manage personal to-do items, summarize pending tasks
 * [LLM (Cohere) Setup](#llm-cohere-setup)
 * [Slack Integration Setup](#slack-integration-setup)
 * [Design/Architecture Decisions](#designarchitecture-decisions)
-* [Deployed URL (Optional)](#deployed-url-optional)
+
 
 ## Features
 
