@@ -117,3 +117,7 @@ A full-stack application to manage personal to-do items, summarize pending tasks
 * **LLM Prompt Engineering:** A simple prompt is used for Cohere to instruct it on summarizing the list of to-do items. This can be further refined for better results.
 * **Notification System:** A simple notification component in React provides immediate feedback to the user about operations.
 
+## Demo Images
+
+![Screenshot (1144)](https://gith![Screenshot (1146)](https://github.com/user-attachments/assets/03fdf96c-3186-44d9-a6cb-bf97176e0860)
+ub.com/user-attachments/assets/8ffc8330-40ea-4c64-8067-ecb6ce269dcb)
